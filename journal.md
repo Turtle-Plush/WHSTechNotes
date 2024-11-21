@@ -17,3 +17,7 @@ The job title i researched is video game designer. Video game designers are resp
 # November 4, 2024
 It's important to protect our person and sensitive information because anyone who has access to it can do terrible things in our name.
 By not clicking on suspicious links and have a anti-virus installed. I don't recall ever posting something sensitive online. 
+# November 12, 2024
+Nothing in my community that has occured that has interested me or any noticeable impacts. I don't know whats going on in my community at all. 
+# November 18, 2024
+Technology has helped people in many ways, even in some where the task seemed impossible. Even in the food industry technology has helped it grow. For example, it has helped farmers grow more food with less effort over all. It does come with its risks though. For example, the risk of cyberattack, environmental harm, exploitation of workers and a widening of the gap between commercial and subsistence farmers are just some examples of problems that it may cause. 
