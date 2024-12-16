@@ -23,3 +23,5 @@ Nothing in my community that has occured that has interested me or any noticeabl
 Technology has helped people in many ways, even in some where the task seemed impossible. Even in the food industry technology has helped it grow. For example, it has helped farmers grow more food with less effort over all. It does come with its risks though. For example, the risk of cyberattack, environmental harm, exploitation of workers and a widening of the gap between commercial and subsistence farmers are just some examples of problems that it may cause. 
 # December 2, 2024
 Artificial Intelligence benefits a lot of society in many ways. Allowing advanced computing and doing tasks that people could be doing. It could although impact negatively because more and more students are using AI to cheat on school work, leading to them not learning anything.
+# December 16, 2024
+I am not excited for this winter break.
