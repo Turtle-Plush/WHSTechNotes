@@ -25,3 +25,7 @@ Technology has helped people in many ways, even in some where the task seemed im
 Artificial Intelligence benefits a lot of society in many ways. Allowing advanced computing and doing tasks that people could be doing. It could although impact negatively because more and more students are using AI to cheat on school work, leading to them not learning anything.
 # December 16, 2024
 I am not excited for this winter break.
+# January 8, 2025
+1. I mostly enjoyed learning how to build video games and how to build them.
+2. I'd like to slowly build my own interactive pvp video game with cool magic abilities.
+3. I am interested in pursuing certifications that will help me like unity game engine or any other course that could help.
