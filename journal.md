@@ -29,3 +29,5 @@ I am not excited for this winter break.
 1. I mostly enjoyed learning how to build video games and how to build them.
 2. I'd like to slowly build my own interactive pvp video game with cool magic abilities.
 3. I am interested in pursuing certifications that will help me like unity game engine or any other course that could help.
+# January 13, 2025
+As more and more tech industries are shifting to AI tools and help over skilled people, I think this shift possibly is a good change, but at the same time i think it's not a good change, because yes, AI is capable of doing jobs better than a person but it still has its limits and there are some things AI just can't do better than a huamn. I personally think the shift to AI would just drop jobs and cause problems for others. 
