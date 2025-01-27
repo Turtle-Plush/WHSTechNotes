@@ -33,3 +33,10 @@ I am not excited for this winter break.
 As more and more tech industries are shifting to AI tools and help over skilled people, I think this shift possibly is a good change, but at the same time i think it's not a good change, because yes, AI is capable of doing jobs better than a person but it still has its limits and there are some things AI just can't do better than a huamn. I personally think the shift to AI would just drop jobs and cause problems for others. 
 # January 24, 2025
 With the banning of Tik Tok due to security reasons is what the Government states. I think the government intervention into tik tok and now other possible chinese companies in america would be a bad decision. Especially in the video game genre, millions of Americans play video games owned by chinese companies and banning them would cause massive back lash. I think companies like Tik Tok should come forward with if the app is a security issue or not, because it can benefit it on the long term. A lesson i could take from this situation is to make sure my projects are secure, and not involved with china.
+# January 27, 2025
+  | Name     | Car | Mistake |
+  | :------- | :-- | :------ |
+  | Jimmy    | Honda Civic    | Drilled Hole In Gas Tank  |
+  | Kayla    |GMC Sierra    |Fixed Wrong Problem         |
+  | Bart     |Toyota Corolla     |Left Stains On Carpet         |
+  | Harrison |Subaru Forester    |Left The Oil Cap Off         |
