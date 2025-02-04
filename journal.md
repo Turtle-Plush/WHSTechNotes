@@ -40,5 +40,5 @@ With the banning of Tik Tok due to security reasons is what the Government state
   | Kayla    |GMC Sierra    |Fixed Wrong Problem         |
   | Bart     |Toyota Corolla     |Left Stains On Carpet         |
   | Harrison |Subaru Forester    |Left The Oil Cap Off         |
-# Feburary 3, 2025
+# February 3, 2025
 While this crash that happened on the 29, a lot of factors that involve technology could have been at fault for the accident. One reason could be the Air trafic control system. The Air Trafic Control System allows for planes to take certain routes without getting in the way of other ongoing planes. A malfunction to this system can possibly make the flight harder, due to the lack of knowledge of where other aircrafts could be flying. 
