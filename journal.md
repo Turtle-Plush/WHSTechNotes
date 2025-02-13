@@ -41,4 +41,12 @@ With the banning of Tik Tok due to security reasons is what the Government state
   | Bart     |Toyota Corolla     |Left Stains On Carpet         |
   | Harrison |Subaru Forester    |Left The Oil Cap Off         |
 # February 3, 2025
-While this crash that happened on the 29, a lot of factors that involve technology could have been at fault for the accident. One reason could be the Air trafic control system. The Air Trafic Control System allows for planes to take certain routes without getting in the way of other ongoing planes. A malfunction to this system can possibly make the flight harder, due to the lack of knowledge of where other aircrafts could be flying. 
+While this crash that happened on the 29, a lot of factors that involve technology could have been at fault for the accident. One reason could be the Air trafic control system. The Air Trafic Control System allows for planes to take certain routes without getting in the way of other ongoing planes. A malfunction to this system can possibly make the flight harder, due to the lack of knowledge of where other aircrafts could be flying.
+# February 13, 2025
+  | Shape      | Color | Count |
+  | ----------- | ----------- | ------------- |
+  | Circle      | Green       | 7 
+  | Square      | Yellow      | 5
+  | Hexagon     | Brown       | 6 
+  | Triangle    | Purple      | 4
+  | Octagon     | Red         | 3
