@@ -37,7 +37,7 @@ With the banning of Tik Tok due to security reasons is what the Government state
   | Name     | Car | Mistake |
   | :------- | :-- | :------ |
   | Jimmy    | Honda Civic    | Drilled Hole In Gas Tank  |
-  | Kayla    |GMC Sierra    |Fixed Wrong Problem         |
+  | Kayla    |GMhoneC Sierra    |Fixed Wrong Problem         |
   | Bart     |Toyota Corolla     |Left Stains On Carpet         |
   | Harrison |Subaru Forester    |Left The Oil Cap Off         |
 # February 3, 2025
@@ -50,3 +50,7 @@ While this crash that happened on the 29, a lot of factors that involve technolo
   | Hexagon     | Brown       | 6 
   | Triangle    | Purple      | 4
   | Octagon     | Red         | 3
+
+# March 17, 2025
+While i was on spring break for a week, I found myself doing all sorts of tasks like cleaning or gaming. For example, after I finished cleaning the house and the kicthen I was able to relax and watch TV while gaming on my phone. I usually woud play video games like brawl stars, roblox, and watched anime on crunchyroll. All this technology helped me stay entertained during the break, since they all carried things that interested me. 
+
