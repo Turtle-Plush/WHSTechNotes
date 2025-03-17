@@ -53,4 +53,9 @@ While this crash that happened on the 29, a lot of factors that involve technolo
 
 # March 17, 2025
 While i was on spring break for a week, I found myself doing all sorts of tasks like cleaning or gaming. For example, after I finished cleaning the house and the kicthen I was able to relax and watch TV while gaming on my phone. I usually woud play video games like brawl stars, roblox, and watched anime on crunchyroll. All this technology helped me stay entertained during the break, since they all carried things that interested me. 
+# February 18, 2025
+Something I learned last week was that certain animals that live in the northern parts  of canada can live their whole lives without having ever tasted a drop of water. They get the water they need from eating the nuts and berries they find while gathering food.
+# February 24, 2025
+I personally think teaching slang isn't nesessary, because nowadays people already change words and their meaning or abreviate them in any way possible. As cultures evolve I think its best for people to do their own investigating on the matter.
+
 
